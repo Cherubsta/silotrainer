@@ -79,10 +79,10 @@
 
       <div class="story-block center-block hideme">
       	<div class="row center-block visible-md-block visible-lg-block" style="margin-top: 2.2em;">
-          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-settings%402x.png" alt="have fun" class="img-responsive center-block">
+          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-activities%402x.png" alt="have fun" class="img-responsive center-block">
         </div>
         <div class="row center-block visible-xs-block visible-sm-block" style="margin-top: 2.2em;">
-          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-settings-sm%402x.png" alt="have fun" class="img-responsive center-block">
+          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-activities-sm%402x.png" alt="have fun" class="img-responsive center-block">
         </div>
        </div>
 
@@ -100,10 +100,10 @@
 
       <div class="story-block center-block hideme">
       	<div class="row center-block visible-md-block visible-lg-block" style="margin-top: 2.2em;">
-          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-activities%402x.png" alt="have fun" class="img-responsive center-block">
+          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-office%402x.png" alt="have fun" class="img-responsive center-block">
         </div>
         <div class="row center-block visible-xs-block visible-sm-block" style="margin-top: 2.2em;">
-          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-activities-sm%402x.png" alt="have fun" class="img-responsive center-block">
+          <img src="https://s3-us-west-2.amazonaws.com/silotrainer/box-office-sm%402x.png" alt="have fun" class="img-responsive center-block">
         </div>
       </div>
 
