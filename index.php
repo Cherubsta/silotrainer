@@ -3,9 +3,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <meta name="description" content="Silent timeboxing, right on your wrist. Introducing a simple way to be more productive. Start getting more done in less time.">
-  <meta name="keywords" content="pomodoro, timeboxing, timebox, pomodoro technique, interval timer, interval timing, silent timer">
-  <meta name="apple-itunes-app" content="app-id=1086491369, affiliate-data=myAffiliateData, app-argument=myURL">
+  <meta name="description" content="Interval training, right on your wrist. Introducing a simple way to do your high intensity workouts. Start getting it done.">
+  <meta name="keywords" content="HIIT, interval training, crossfit, interval timer, interval timing, crossfit timer, tabata timer, high intensity interval training">
   <link rel="apple-touch-icon" sizes="57x57" href="https://s3-us-west-2.amazonaws.com/silotrainer/icon-57%402x.jpg">
   <link rel="shortcut icon" href="https://s3-us-west-2.amazonaws.com/silotrainer/favicon%401x.png">
   <!-- Latest Bootstrap compiled and minified CSS -->
