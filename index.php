@@ -56,7 +56,7 @@
 	      </div>
 	      <div class="row center-block" style="margin-top: 2.2em; max-width: 100%;">
 	        <div>
-	          <a href="https://appsto.re/us/PROWab.i" onclick="ga('send', 'event', 'App Store Top', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-bottom: 1.2em; max-width: 35%;"> </a>
+	          <a href="#" onclick="ga('send', 'event', 'App Store Top', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-bottom: 1.2em; max-width: 35%;"> </a>
 	        </div>
 	      </div>
 	    </div>
@@ -148,7 +148,7 @@
           <div class="col-sm-8 col-xs-8">
             <h1 class="tk-myriad-pro" style="max-width: 80%;">The Most Personal Trainer, Right on your Wrist.</h1>
           	<div style="max-width: 60%;">
-		          <a href="https://appsto.re/us/PROWab.i" onclick="ga('send', 'event', 'App Store Bottom', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-top: 1.2em;"> </a>
+		          <a href="#" onclick="ga('send', 'event', 'App Store Bottom', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-top: 1.2em;"> </a>
 		        </div>
           </div>
         </div>
@@ -183,6 +183,7 @@
           <a href="http://silotrainer.com/contact" class="text-center" onclick="ga('send', 'event', 'Contact', 'Clicked', 'Spring Campaign', '1');"><img src="https://s3-us-west-2.amazonaws.com/silotrainer/contact%402x.png" alt="Contact" title="Contact" class="" style="width: 30%; min-width: 50px;"></a>
         </h2>        
       </div>
+
     </div>
     <div class="row center-block border-footer" style="margin-top: 2.2em; max-width: 80%;">
       <footer style="color: #8087A6; margin-top: 0.5em;">
