@@ -32,7 +32,7 @@
   <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script> <!-- mailchimp email -->
   <script>
   function showMailingPopUp() {
-      require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us11.list-manage.com","uuid":"9b3642b526efb45fc9236dc60","lid":"870f083213"}) })
+      require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us13.list-manage.com","uuid":"9b3642b526efb45fc9236dc60","lid":"870f083213"}) })
       document.cookie = "MCEvilPopupClosed=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
   };
   document.getElementById("open-popup").onclick = function() {showMailingPopUp()};
@@ -64,7 +64,7 @@
 	      </div>
 	      <div class="row center-block" style="margin-top: 2.2em; max-width: 100%;">
 	        <div>
-	          <button id="open-popup" onclick="ga('send', 'event', 'App Store Top', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-bottom: 1.2em; max-width: 35%;"> </button>
+	          <a id="open-popup" href="#" onclick="ga('send', 'event', 'App Store Top', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-bottom: 1.2em; max-width: 35%;"> </a>
 	        </div>
 	      </div>
 	    </div>
@@ -156,7 +156,7 @@
           <div class="col-sm-8 col-xs-8">
             <h1 class="tk-myriad-pro" style="max-width: 80%;">The Most Personal Trainer, Right on your Wrist.</h1>
           	<div style="max-width: 60%;">
-		          <button id="open-popup" onclick="ga('send', 'event', 'App Store Bottom', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-top: 1.2em;"> </button>
+		          <a id="open-popup" href="#" onclick="ga('send', 'event', 'App Store Bottom', 'Clicked', 'Spring Campaign', '1');"> <img src="https://s3-us-west-2.amazonaws.com/silotrainer/App_Store_Badge_US-UK%402x.png" alt="ios" class="img-responsive center-block" style="margin-top: 1.2em;"> </a>
 		        </div>
           </div>
         </div>
