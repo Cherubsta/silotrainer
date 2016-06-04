@@ -66,6 +66,15 @@ a:hover {
 	border-radius: 8px;
 	padding: 0 0 1em 1em;
 }
+.mail-block{	
+	display: block;
+	border: solid 1px;
+	border-color: #FF324B;
+	border-radius: 6px;
+	padding: 1em;
+	max-width: 40%;
+	font-size: 1.2em;
+}
 .background-wave {
 	background-image: url("https://s3-us-west-2.amazonaws.com/silofocus/wave%402x.png");
 	background-size: 100% 100%;
