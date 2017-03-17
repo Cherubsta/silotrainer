@@ -1,12 +1,13 @@
 body {
   background-color:#000000;
   color: #b3b3b3;
-  font-family: 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica', 'Arial', 'Lucida Grande', 'sans-serif';
+  font-family: 'Helvetica', 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Arial', 'Lucida Grande', 'sans-serif';
 }
 html, body {
     height: 100%;
 }
 h1 {
+  font-family: 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica', 'Arial', 'Lucida Grande', 'sans-serif';
 	font-size: 40px;
   font-weight: lighter;
   margin-bottom: 40px;
@@ -20,7 +21,6 @@ h2 {
   margin-bottom: 0;
 }
 p {
-  font-family: 'Helvetica', 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Arial', 'Lucida Grande', 'sans-serif';
 	font-size: 20px;
 	font-weight: 100;
   margin-bottom: 30px;
