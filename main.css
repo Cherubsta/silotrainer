@@ -216,6 +216,13 @@ a:hover {
   clear: left;
   margin-right: 2em;
 }
+.img-trouble-sm {
+  max-width: 13%;
+  position: relative;
+  float: left;
+  clear: left;
+  margin-right: 1em;
+}
 
 .hideme {
   opacity:0;
