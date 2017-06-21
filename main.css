@@ -1,7 +1,7 @@
 body {
   background-color:#000000;
   color: #b3b3b3;
-  font-family: 'Helvetica', 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Arial', 'Lucida Grande', 'sans-serif';
+  font-family: 'Helvetica Neue', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica', 'Arial', 'Lucida Grande', 'sans-serif';
 }
 html, body {
     height: 100%;
@@ -105,11 +105,13 @@ a:hover {
 .div-header {
   font-size: 18px;
   margin-bottom: 4px;
+  font-weight: lighter;
 }
 .div-header-sm {
   font-size: 18px;
   margin-bottom: 4px;
   margin-top: 3px;
+  font-weight: lighter;
 }
 .div-motivate-align {
   text-align: left;
@@ -327,6 +329,9 @@ a:hover {
 }
 /* Landscape phones and portrait tablets */
 @media (max-width: 767px) {
+  body{
+    font-family: 'Helvetica', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Arial', 'Lucida Grande', 'sans-serif';
+  }
   .div-landscape-sm {
     float: right; 
     width: 50%;
@@ -334,6 +339,9 @@ a:hover {
 }
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
+  body{
+    font-family: 'Helvetica', 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Arial', 'Lucida Grande', 'sans-serif';
+  }
   .div-landscape-sm { 
     width: 100%;
   }
